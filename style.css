@@ -20,6 +20,10 @@ nav{
     border-radius: 10px;
     border-radius: 5px;
 }
+NAV h1{
+    color: blue;
+    
+}
 nav p{
     padding: 50px;
     background-color: antiquewhite;
